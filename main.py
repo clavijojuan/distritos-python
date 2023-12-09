@@ -30,6 +30,8 @@ app.contact = {
 
 origins = [
     "http://localhost:4200",
+    'https://6574868f60517d74adc11efe--effulgent-rabanadas-c5e60c.netlify.app',
+    '*'
 ]
 
 app.add_middleware(
